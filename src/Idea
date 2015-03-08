@@ -1,0 +1,31 @@
+Game
+
+Objective
+--Not to die by the little red squares
+
+
+
+Additions
+--Upgrades you can use to get rid of the enemy
+--Rounds?
+
+Coding objectives
+--Getting collision bounds
+--Death message
+
+Graphical objectives
+--Getting a explosion particle system
+
+
+
+(Upgrade system)
+Kill system
+Repelling your enemies
+
+
+
+
+--Bugs
+
+/Score not stoping upon death
+/Not winning when emeies are gone
